@@ -1,0 +1,14 @@
+C:\Users\kotru\OneDrive\Рабочий стол\Учёба\ИСРПО\lab-1-2\lab-1-2\bin\Debug\lab-1-2.exe.config
+C:\Users\kotru\OneDrive\Рабочий стол\Учёба\ИСРПО\lab-1-2\lab-1-2\bin\Debug\lab-1-2.exe
+C:\Users\kotru\OneDrive\Рабочий стол\Учёба\ИСРПО\lab-1-2\lab-1-2\bin\Debug\lab-1-2.pdb
+C:\Users\kotru\OneDrive\Рабочий стол\Учёба\ИСРПО\lab-1-2\lab-1-2\obj\Debug\lab-1-2.csproj.AssemblyReference.cache
+C:\Users\kotru\OneDrive\Рабочий стол\Учёба\ИСРПО\lab-1-2\lab-1-2\obj\Debug\lab-1-2.csproj.CoreCompileInputs.cache
+C:\Users\kotru\OneDrive\Рабочий стол\Учёба\ИСРПО\lab-1-2\lab-1-2\obj\Debug\lab-1-2.exe
+C:\Users\kotru\OneDrive\Рабочий стол\Учёба\ИСРПО\lab-1-2\lab-1-2\obj\Debug\lab-1-2.pdb
+H:\ИСПРО\lab-1\lab-1-2\lab-1-2\bin\Debug\lab-1-2.exe.config
+H:\ИСПРО\lab-1\lab-1-2\lab-1-2\bin\Debug\lab-1-2.exe
+H:\ИСПРО\lab-1\lab-1-2\lab-1-2\bin\Debug\lab-1-2.pdb
+H:\ИСПРО\lab-1\lab-1-2\lab-1-2\obj\Debug\lab-1-2.csprojAssemblyReference.cache
+H:\ИСПРО\lab-1\lab-1-2\lab-1-2\obj\Debug\lab-1-2.csproj.CoreCompileInputs.cache
+H:\ИСПРО\lab-1\lab-1-2\lab-1-2\obj\Debug\lab-1-2.exe
+H:\ИСПРО\lab-1\lab-1-2\lab-1-2\obj\Debug\lab-1-2.pdb

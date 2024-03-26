@@ -1,0 +1,14 @@
+C:\Users\kotru\OneDrive\Рабочий стол\Учёба\Диплом\lab-1-2-server\lab-1-2-server\bin\Debug\lab-1-2-server.exe.config
+C:\Users\kotru\OneDrive\Рабочий стол\Учёба\Диплом\lab-1-2-server\lab-1-2-server\bin\Debug\lab-1-2-server.exe
+C:\Users\kotru\OneDrive\Рабочий стол\Учёба\Диплом\lab-1-2-server\lab-1-2-server\bin\Debug\lab-1-2-server.pdb
+C:\Users\kotru\OneDrive\Рабочий стол\Учёба\Диплом\lab-1-2-server\lab-1-2-server\obj\Debug\lab-1-2-server.csproj.AssemblyReference.cache
+C:\Users\kotru\OneDrive\Рабочий стол\Учёба\Диплом\lab-1-2-server\lab-1-2-server\obj\Debug\lab-1-2-server.csproj.CoreCompileInputs.cache
+C:\Users\kotru\OneDrive\Рабочий стол\Учёба\Диплом\lab-1-2-server\lab-1-2-server\obj\Debug\lab-1-2-server.exe
+C:\Users\kotru\OneDrive\Рабочий стол\Учёба\Диплом\lab-1-2-server\lab-1-2-server\obj\Debug\lab-1-2-server.pdb
+H:\ИСПРО\lab-1\lab-1-2-server\lab-1-2-server\bin\Debug\lab-1-2-server.exe.config
+H:\ИСПРО\lab-1\lab-1-2-server\lab-1-2-server\bin\Debug\lab-1-2-server.exe
+H:\ИСПРО\lab-1\lab-1-2-server\lab-1-2-server\bin\Debug\lab-1-2-server.pdb
+H:\ИСПРО\lab-1\lab-1-2-server\lab-1-2-server\obj\Debug\lab-1-2-server.csprojAssemblyReference.cache
+H:\ИСПРО\lab-1\lab-1-2-server\lab-1-2-server\obj\Debug\lab-1-2-server.csproj.CoreCompileInputs.cache
+H:\ИСПРО\lab-1\lab-1-2-server\lab-1-2-server\obj\Debug\lab-1-2-server.exe
+H:\ИСПРО\lab-1\lab-1-2-server\lab-1-2-server\obj\Debug\lab-1-2-server.pdb
